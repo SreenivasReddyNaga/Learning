@@ -10,3 +10,5 @@ Third Change in Git Master
 First Change in dev branch
 
 Secound Change in dev branch
+
+Third Change in dev branch
