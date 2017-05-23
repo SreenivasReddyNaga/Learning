@@ -7,4 +7,6 @@ Secound Change in Git Master
 
 Third Change in Git Master
 
-First change in dev branch
+First Change in dev branch
+
+Secound Change in dev branch
